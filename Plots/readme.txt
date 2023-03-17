@@ -1,0 +1,1 @@
+This folder contains the plots from the Jupyter Notebook. I used the Plotly library to create the plots however they weren't rendered in GitHub because of their dynamic nature. So, all of the plots are uploaded here for your reference.
